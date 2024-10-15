@@ -1,9 +1,7 @@
-- 👋 Oi, eu sou Saulo Clever !!
-- 👀 Tenho Interesse em data analysis, PowerBI, SQL, RPA e Python
-- 🌱 Atualmente trabalho desenvolvendo integrações de bases de dados(ETL) com o PowerBI
+👋 Oi, eu sou Saulo Clever, Tenho Interesse em data analysis, PowerBI, SQL, RPA e Python
 # Meu Portfólio de Análise de Dados
 
-Olá! Meu nome é [Seu Nome], e sou um Analista de Dados JR em transição de carreira. Aqui você encontrará alguns dos meus projetos de análise de dados.
+Olá! Meu nome é Saulo Clever, e sou um Analista de Dados JR em transição de carreira. Aqui você encontrará alguns dos meus projetos de análise de dados.
 
 ## Projetos
 
